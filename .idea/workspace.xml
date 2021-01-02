@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2acfcbe7-be5a-4d49-b056-00f5533fc5e4" name="Default Changelist" comment="" />
+    <list default="true" id="2acfcbe7-be5a-4d49-b056-00f5533fc5e4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XCqMFt2CT4kzqmcLIDPzTANdmO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.0" />
@@ -39,20 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstBank">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="somePackage.OOP.ArrayListDemo" />
-      <module name="Intellij" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="somePackage.OOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.InvestmentReturn">
     <configuration name="FirstBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.Banking.FirstBank" />
       <module name="Intellij" />
@@ -72,6 +65,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="somePackage.OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvestmentReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.InvestmentCalculator.InvestmentReturn" />
+      <module name="Intellij" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Projects.InvestmentCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InvestmentReturn" />
         <item itemvalue="Application.FirstBank" />
         <item itemvalue="Application.MassageWithHashMap" />
         <item itemvalue="Application.Massage" />
         <item itemvalue="Application.HashMapDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +133,17 @@
       <updated>1580560376525</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
